@@ -1,0 +1,166 @@
+{
+  "select_where": [
+    {
+      "title": "A Year in Provence (Provence #1)",
+      "price_inr": 6000.84
+    },
+    {
+      "title": "The Past Never Ends",
+      "price_inr": 5960.75
+    },
+    {
+      "title": "Sapiens: A Brief History of Humankind",
+      "price_inr": 5721.26
+    },
+    {
+      "title": "Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)",
+      "price_inr": 5516.6
+    },
+    {
+      "title": "Behind Closed Doors",
+      "price_inr": 5509.21
+    },
+    {
+      "title": "Full Moon over Noah\u00e2\u0080\u0099s Ark: An Odyssey to Mount Ararat and Beyond",
+      "price_inr": 5214.86
+    },
+    {
+      "title": "A Time of Torment (Charlie Parker #14)",
+      "price_inr": 5100.92
+    },
+    {
+      "title": "Sharp Objects",
+      "price_inr": 5045.01
+    },
+    {
+      "title": "Sharp Objects",
+      "price_inr": 5045.01
+    },
+    {
+      "title": "Wall and Piece",
+      "price_inr": 4660.99
+    }
+  ],
+  "order_by_limit": [
+    {
+      "title": "Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",
+      "price_gbp": 57.25
+    },
+    {
+      "title": "A Year in Provence (Provence #1)",
+      "price_gbp": 56.88
+    },
+    {
+      "title": "The Past Never Ends",
+      "price_gbp": 56.5
+    },
+    {
+      "title": "Birdsong: A Story in Pictures",
+      "price_gbp": 54.64
+    },
+    {
+      "title": "Sapiens: A Brief History of Humankind",
+      "price_gbp": 54.23
+    },
+    {
+      "title": "The Last Mile (Amos Decker #2)",
+      "price_gbp": 54.21
+    },
+    {
+      "title": "Tipping the Velvet",
+      "price_gbp": 53.74
+    },
+    {
+      "title": "Aladdin and His Wonderful Lamp",
+      "price_gbp": 53.13
+    },
+    {
+      "title": "Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)",
+      "price_gbp": 52.29
+    },
+    {
+      "title": "Behind Closed Doors",
+      "price_gbp": 52.22
+    }
+  ],
+  "distinct": [
+    {
+      "rating": 1
+    },
+    {
+      "rating": 2
+    },
+    {
+      "rating": 3
+    },
+    {
+      "rating": 4
+    },
+    {
+      "rating": 5
+    }
+  ],
+  "between": [],
+  "join": [
+    {
+      "title": "Sapiens: A Brief History of Humankind",
+      "category_name": "Books",
+      "rating": 5,
+      "price_inr": 5721.26
+    },
+    {
+      "title": "Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)",
+      "category_name": "Books",
+      "rating": 5,
+      "price_inr": 5516.6
+    },
+    {
+      "title": "A Time of Torment (Charlie Parker #14)",
+      "category_name": "Mystery",
+      "rating": 5,
+      "price_inr": 5100.92
+    },
+    {
+      "title": "Worlds Elsewhere: Journeys Around Shakespeare\u00e2\u0080\u0099s Globe",
+      "category_name": "Books",
+      "rating": 5,
+      "price_inr": 4251.65
+    },
+    {
+      "title": "Rip it Up and Start Again",
+      "category_name": "Books",
+      "rating": 5,
+      "price_inr": 3694.61
+    },
+    {
+      "title": "Black Dust",
+      "category_name": "Books",
+      "rating": 5,
+      "price_inr": 3642.92
+    },
+    {
+      "title": "1,000 Places to See Before You Die",
+      "category_name": "Travel",
+      "rating": 5,
+      "price_inr": 2751.44
+    },
+    {
+      "title": "Chase Me (Paris Nights #2)",
+      "category_name": "Books",
+      "rating": 5,
+      "price_inr": 2665.98
+    },
+    {
+      "title": "The Elephant Tree",
+      "category_name": "Books",
+      "rating": 5,
+      "price_inr": 2513.01
+    },
+    {
+      "title": "The Four Agreements: A Practical Guide to Personal Freedom",
+      "category_name": "Books",
+      "rating": 5,
+      "price_inr": 1863.13
+    }
+  ]
+}
